@@ -1,4 +1,4 @@
-Eltin bobo
+developer
 
 
 git init (gitni yaratadi)
