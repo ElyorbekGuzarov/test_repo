@@ -1,0 +1,9 @@
+Eltin bobo
+
+
+git init (gitni yaratadi)
+
+git status (gitni statusini ko'rsatadi)
+
+git add . (hamma o'zgarishlarni qo'shadi)
+
